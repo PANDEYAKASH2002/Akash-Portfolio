@@ -437,7 +437,7 @@ const Page = () => {
                   </span>
                 </div>
                 <div className="p-6">
-                  <h3 className="text-xl font-bold mb-2 group-hover:text-[#FBBF24] transition-colors">
+                  <h3 className="text-xl font-bold mb-2 text-black group-hover:text-[#FBBF24] transition-colors">
                     {project.title}
                   </h3>
                   <p className="text-gray-600 mb-4 text-sm line-clamp-2">
