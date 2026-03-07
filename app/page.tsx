@@ -431,7 +431,7 @@ const Page = () => {
                 className="group bg-white/90 backdrop-blur-sm rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2"
               >
                 <div
-                  className={`relative h-48 bg-gradient-to-r ${project.image} flex items-center justify-center text-white text-4xl`}
+                  className={`relative h-48 bg-gradient-to-r ${project.color} flex items-center justify-center text-white text-4xl`}
                 >
                   <span className="opacity-30 font-bold text-6xl">
                     {project.title.charAt(0)}
