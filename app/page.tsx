@@ -94,6 +94,7 @@ const Page = () => {
       title: "Smart Management Facilty",
       description: "A comapny specific webiste ",
       category: "web",
+       image: "/smf.jpg", 
       color: "from-red-400 to-red-600",
       tags: ["JavaScript", "HTML5", "CSS3", "Reactjs"],
       demo: "https://smf-aecv.vercel.app/",
